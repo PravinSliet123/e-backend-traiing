@@ -1,0 +1,239 @@
+{
+    "products": [
+        {
+            "id": 24,
+            "title": "Fish Steak",
+            "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+            "category": "groceries",
+            "price": 14.99,
+            "discountPercentage": 4.23,
+            "rating": 3.78,
+            "stock": 74,
+            "tags": [
+                "seafood"
+            ],
+            "sku": "GRO-BRD-FIS-024",
+            "weight": 6,
+            "dimensions": {
+                "width": 14.95,
+                "height": 26.31,
+                "depth": 11.27
+            },
+            "warrantyInformation": "1 month warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 2,
+                    "comment": "Would not buy again!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Caleb Perkins",
+                    "reviewerEmail": "caleb.perkins@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Excellent quality!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Isabella Jackson",
+                    "reviewerEmail": "isabella.jackson@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Great value for money!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Nathan Dixon",
+                    "reviewerEmail": "nathan.dixon@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 50,
+            "meta": {
+                "createdAt": "2025-05-24T22:00:13.090Z",
+                "updatedAt": "2025-12-05T01:25:43.902Z",
+                "barcode": "9595036192098",
+                "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
+        },
+        {
+            "id": 25,
+            "title": "Green Bell Pepper",
+            "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+            "category": "groceries",
+            "price": 1.29,
+            "discountPercentage": 0.16,
+            "rating": 3.25,
+            "stock": 33,
+            "tags": [
+                "vegetables"
+            ],
+            "sku": "GRO-BRD-GRE-025",
+            "weight": 2,
+            "dimensions": {
+                "width": 15.33,
+                "height": 26.65,
+                "depth": 14.44
+            },
+            "warrantyInformation": "1 month warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Highly recommended!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Avery Carter",
+                    "reviewerEmail": "avery.carter@x.dummyjson.com"
+                },
+                {
+                    "rating": 3,
+                    "comment": "Would not recommend!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Henry Hill",
+                    "reviewerEmail": "henry.hill@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Excellent quality!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Addison Wright",
+                    "reviewerEmail": "addison.wright@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 12,
+            "meta": {
+                "createdAt": "2024-12-16T06:21:20.741Z",
+                "updatedAt": "2025-03-26T10:22:41.216Z",
+                "barcode": "2365227493323",
+                "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
+        },
+        {
+            "id": 26,
+            "title": "Green Chili Pepper",
+            "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+            "category": "groceries",
+            "price": 0.99,
+            "discountPercentage": 1,
+            "rating": 3.66,
+            "stock": 3,
+            "tags": [
+                "vegetables"
+            ],
+            "sku": "GRO-BRD-GRE-026",
+            "weight": 7,
+            "dimensions": {
+                "width": 15.38,
+                "height": 18.12,
+                "depth": 19.92
+            },
+            "warrantyInformation": "2 year warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "Low Stock",
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Luna Russell",
+                    "reviewerEmail": "luna.russell@x.dummyjson.com"
+                },
+                {
+                    "rating": 1,
+                    "comment": "Waste of money!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Noah Lewis",
+                    "reviewerEmail": "noah.lewis@x.dummyjson.com"
+                },
+                {
+                    "rating": 3,
+                    "comment": "Very disappointed!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Clara Berry",
+                    "reviewerEmail": "clara.berry@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 39,
+            "meta": {
+                "createdAt": "2025-08-13T07:35:11.030Z",
+                "updatedAt": "2026-07-07T04:30:44.059Z",
+                "barcode": "9335000538563",
+                "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp"
+        },
+        {
+            "id": 27,
+            "title": "Honey Jar",
+            "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+            "category": "groceries",
+            "price": 6.99,
+            "discountPercentage": 14.4,
+            "rating": 3.97,
+            "stock": 34,
+            "tags": [
+                "condiments"
+            ],
+            "sku": "GRO-BRD-HON-027",
+            "weight": 2,
+            "dimensions": {
+                "width": 9.28,
+                "height": 21.72,
+                "depth": 17.74
+            },
+            "warrantyInformation": "1 month warranty",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 1,
+                    "comment": "Very disappointed!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Autumn Gomez",
+                    "reviewerEmail": "autumn.gomez@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Highly impressed!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Benjamin Wilson",
+                    "reviewerEmail": "benjamin.wilson@x.dummyjson.com"
+                },
+                {
+                    "rating": 2,
+                    "comment": "Very disappointed!",
+                    "date": "2025-04-30T09:41:02.053Z",
+                    "reviewerName": "Nicholas Edwards",
+                    "reviewerEmail": "nicholas.edwards@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "90 days return policy",
+            "minimumOrderQuantity": 47,
+            "meta": {
+                "createdAt": "2024-09-24T17:38:48.991Z",
+                "updatedAt": "2025-01-10T02:20:32.078Z",
+                "barcode": "6354306346329",
+                "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp"
+        }
+    ],
+    "total": 194,
+    "skip": 0,
+    "limit": 30
+}
